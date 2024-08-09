@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body {
+    background: radial-gradient(328px at 2.9% 15%, rgb(191, 224, 251) 0%, rgb(232, 233, 251) 25.8%, rgb(252, 239, 250) 50.8%, rgb(234, 251, 251) 77.6%, rgb(240, 251, 244) 100.7%);
+    text-align: center;
+}
+
+.statement {
+    color: rgb(75, 206, 236);
+}
+
+.email-link {
+    color: rgb(75, 206, 236);
+    font-weight: 900;
+} 
+
+a {padding: 12px;
+color: rgb(245, 134, 184);}
+
+img {
+   width: 400px;
+   height: auto;
+   display: block;
+   margin: auto;
+   padding: 20px;
+   border-radius: 8%;
+}
